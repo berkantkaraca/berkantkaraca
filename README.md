@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">👋 Hi, I'm Berkant Karaca!</h1>
 
-## 🌟 About Me
 - 👨🏻‍💻 I am a  Computer Engineering student. 
 - 🔭 I’m jr. backend developer.
 - 🌱 I’m currently learning **ASP .Net Core, PHP**.
