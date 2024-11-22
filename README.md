@@ -34,14 +34,6 @@ Here are some ideas to get you started:
     </td>
   </tr>
   <tr>
-    <td><strong>Frontend</strong></td>
-    <td>
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-    </td>
-  </tr>
-  <tr>
     <td><strong>Database</strong></td>
     <td>
       <img style="margin: 10px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" height="50" />
