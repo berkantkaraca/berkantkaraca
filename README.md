@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🎯 My goal is to succeed in the field of software and contribute to innovative projects.
 
 ## 💻 My Tech Stack
-<table border="1">
+<table >
   <tr>
     <td><strong>Backend</strong></td>
     <td>
