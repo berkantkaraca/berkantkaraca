@@ -60,5 +60,6 @@ Here are some ideas to get you started:
 ## 🌐 Connect with me
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berkantkaracatr@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkantkaraca/)
+[![Website](https://img.shields.io/badge/Website-berkantkaraca.com.tr-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://berkantkaraca.com.tr)
 
 ⭐️ Feel free to explore my repositories and connect with me for collaboration!
