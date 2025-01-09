@@ -42,6 +42,12 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" height="40" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="40" />
 </div> 
+<!-- <p align="center">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?&theme=light&i=dotnet,cs,java,spring,js,jquery,react,html,css,git,gitlab,github,docker,postgres"/>
+  </a>
+</p> -->
+
 
 ## 🌐 Connect with me
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berkantkaracatr@gmail.com)
