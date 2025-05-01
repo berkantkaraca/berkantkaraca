@@ -34,6 +34,6 @@
 ## 🌐 Connect with me
 [![Email](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:berkantkaracatr@gmail.com) &nbsp;&nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/berkantkaraca/) &nbsp;&nbsp;
-[![Website](https://skillicons.dev/icons?i=vercel&theme=dark)](https://berkantkaraca.com.tr)
+[![Website](https://skillicons.dev/icons?i=htmx&theme=dark)](https://berkantkaraca.com.tr)
 
 ⭐️ Feel free to explore my repositories and connect with me for collaboration!
