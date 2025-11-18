@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Berkant Karaca!</h1>
 
 - 👨🏻‍💻 I am a  Computer Engineering student. 
-- 🔭 I’m jr. backend developer.
-- 🌱 I’m currently learning **Spring Boot, .Net Core, PHP**.
+- 🔭 I’m always jr. full stack developer.
+- 🌱 I’m currently learning **.Net Core, Angular, Oracle Sql**.
 - ⚡ I am focused on learning and development, disciplined, responsible, solution-oriented, and effective in teamwork. 
 - 🎯 My goal is to succeed in the field of software and contribute to innovative projects.
 
