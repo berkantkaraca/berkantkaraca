@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Berkant Karaca!</h1>
 
-- 👨🏻‍💻 I am a  Computer Engineering student. 
+- 👨🏻‍💻 I recently graduated from Bandırma Onyedi Eylül University with a degree in Computer Engineering. 
 - 🔭 I’m always jr. full stack developer.
 - 🌱 I’m currently learning **.Net Core, Angular, Oracle Sql**.
 - ⚡ I am focused on learning and development, disciplined, responsible, solution-oriented, and effective in teamwork. 
