@@ -1,3 +1,5 @@
+
+
 <h1 align="center">👋 Hi, I'm Berkant Karaca!</h1>
 
 - 👨🏻‍💻 I recently graduated from Bandırma Onyedi Eylül University with a degree in Computer Engineering. 
@@ -7,29 +9,58 @@
 - 🎯 My goal is to succeed in the field of software and contribute to innovative projects.
 
 ## 💻 My Tech Stack
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    
-<h5>Backend</h5>
-<img src="https://skillicons.dev/icons?theme=dark&i=java,spring,cs,dotnet,php,laravel" height="40"/>
-
-<h5>Frontend</h5>
-<img src="https://skillicons.dev/icons?theme=dark&i=html,css,js,bootstrap" height="40"/>
-
-<h5>Database</h5>
-<img src="https://skillicons.dev/icons?theme=dark&i=postgres,mysql,mongodb,redis" height="40"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" height="40" />
-<img src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="40" />
-
-<h5>Other Tools</h5>
-<img src="https://skillicons.dev/icons?theme=dark&i=git,docker,postman" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" height="40" />
-<img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="40" />
-
-</div> 
-
-<!-- <p align="center">
-   <img src="https://skillicons.dev/icons?theme=dark&i=anaconda,c,cs,cpp,discord,gitlab,idea,instagram,maven,py,ubuntu,visualstudio,vscode,windows"/>
-</p> -->
+<table align="">
+  <tr>
+    <td align="center" width="150">
+      <b>Backend</b>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?theme=dark&i=cs,dotnet,java,spring,php,laravel" height="40" alt="backend skills" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <b>Frontend</b>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="40" alt="angular" />
+      <img src="https://skillicons.dev/icons?theme=dark&i=html,css,ts,js,bootstrap" height="40" alt="frontend skills" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <b>Database</b>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?theme=dark&i=postgres,mysql,mongodb,redis" height="40" alt="databases" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="35" alt="mssql" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="40" alt="oracle" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <b>DevOps & Tools</b>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?theme=dark&i=git,github,gitlab,cloudflare,docker" height="40" alt="tools" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original.svg" height="40" alt="portainer" /><br />
+      <img src="https://skillicons.dev/icons?theme=dark&i=postman" height="40" alt="postman" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" height="40" alt="swagger" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" height="40" alt="github desktop" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <b>IDEs</b>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?theme=dark&i=visualstudio,vscode,idea" height="40" alt="ides" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" height="40" alt="datagrip" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" height="40" alt="sqldeveloper" />
+      <img src="https://github.com/dbeaver/dbeaver/wiki/images/dbeaver-head.png" height="40" alt="dbeaver" />
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Connect with me
 [![Email](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:berkantkaracatr@gmail.com) &nbsp;&nbsp;
