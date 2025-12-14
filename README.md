@@ -9,6 +9,7 @@
 - 🎯 My goal is to succeed in the field of software and contribute to innovative projects.
 
 ## 💻 My Tech Stack
+<!-- https://devicon.dev/ -->
 <table align="">
   <tr>
     <td align="center" width="150">
@@ -62,9 +63,15 @@
   </tr>
 </table>
 
+## ✍️ My Medium Articles
+- [Vertical Slice Architecture (VSA)](https://medium.com/@berkantkaraca/vertical-slice-architecture-vsa-d5f1a558eb3d)
+- [CORS (Cross-Origin Resource Sharing) Nedir ve Ne İşe Yarar?](https://medium.com/@berkantkaraca/cors-cross-origin-resource-sharing-nedir-ve-ne-i%CC%87%C5%9Fe-yarar-efa80121b24e)
+
 ## 🌐 Connect with me
 [![Email](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:berkantkaracatr@gmail.com) &nbsp;&nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/berkantkaraca/) &nbsp;&nbsp;
 [![Website](https://skillicons.dev/icons?i=htmx&theme=dark)](https://berkantkaraca.com.tr)
+
+
 
 ⭐️ Feel free to explore my repositories and connect with me for collaboration!
