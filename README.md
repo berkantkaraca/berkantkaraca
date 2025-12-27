@@ -66,6 +66,9 @@
 ## ✍️ My Medium Articles
 - [Vertical Slice Architecture (VSA)](https://medium.com/@berkantkaraca/vertical-slice-architecture-vsa-d5f1a558eb3d)
 - [CORS (Cross-Origin Resource Sharing) Nedir ve Ne İşe Yarar?](https://medium.com/@berkantkaraca/cors-cross-origin-resource-sharing-nedir-ve-ne-i%CC%87%C5%9Fe-yarar-efa80121b24e)
+- [.NET User Secrets Kullanım Rehberi](https://medium.com/@berkantkaraca/githuba-yanl%C4%B1%C5%9Fl%C4%B1kla-%C5%9Fifre-atmaya-son-net-user-secrets-kullan%C4%B1m-rehberi-b75b7c019752)
+
+
 
 ## 🌐 Connect with me
 [![Email](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:berkantkaracatr@gmail.com) &nbsp;&nbsp;
