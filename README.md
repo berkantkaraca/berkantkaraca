@@ -67,7 +67,8 @@
 - [Vertical Slice Architecture (VSA)](https://medium.com/@berkantkaraca/vertical-slice-architecture-vsa-d5f1a558eb3d)
 - [CORS (Cross-Origin Resource Sharing) Nedir ve Ne İşe Yarar?](https://medium.com/@berkantkaraca/cors-cross-origin-resource-sharing-nedir-ve-ne-i%CC%87%C5%9Fe-yarar-efa80121b24e)
 - [.NET User Secrets Kullanım Rehberi](https://medium.com/@berkantkaraca/githuba-yanl%C4%B1%C5%9Fl%C4%B1kla-%C5%9Fifre-atmaya-son-net-user-secrets-kullan%C4%B1m-rehberi-b75b7c019752)
-
+- [Dependency Injection Nedir? C# ile Adım Adım Anlatalım](https://medium.com/@berkantkaraca/dependency-injection-nedir-c-ile-ad%C4%B1m-ad%C4%B1m-anlatal%C4%B1m-62213559744f)
+- [Dependency Injection’da Yaşam Döngüleri: Transient, Scoped ve Singleton](https://medium.com/@berkantkaraca/dependency-injectionda-ya%C5%9Fam-d%C3%B6ng%C3%BCleri-transient-scoped-ve-singleton-6a1505ba2b15)
 
 
 ## 🌐 Connect with me
